@@ -15,6 +15,6 @@ Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmen
 💡 Sempre aberta a aprender coisas novas
 
 <img align="right"
-     width="220"
-     src="./assets/kakashi_chidori_pixel.gif"
-     alt="Kakashi usando Chidori">
+     width="180"
+     src="./assets/kakashi_pixel_walk.gif"
+     alt="Kakashi pixel art animado">
