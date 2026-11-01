@@ -14,7 +14,4 @@ Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmen
 
 💡 Sempre aberta a aprender coisas novas
 
-<img align="right"
-     width="180"
-     src="./assets/kakashi_pixel_walk.gif"
-     alt="Kakashi pixel art animado">
+
