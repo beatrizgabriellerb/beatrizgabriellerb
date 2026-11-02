@@ -37,10 +37,9 @@ I believe every line of code is an opportunity to learn something new. Currently
 
 <!--[caso eu queira mudar cores ou outras coisas](https://profile-readme-generator.com/pt-BR) -->
 ## 📊 Stats and Activity
-<div data-importer="stats" align="left">
+<div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=beatrizgabriellerb&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=13&order=3" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=beatrizgabriellerb&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=13&order=3" height="190" alt="streak graph"  />
 </div>
 
 ## 🔗 Conect with me!
@@ -56,3 +55,11 @@ I believe every line of code is an opportunity to learn something new. Currently
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
