@@ -40,9 +40,8 @@ I believe every line of code is an opportunity to learn something new. Currently
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=beatrizgabriellerb&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=13&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=beatrizgabriellerb&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=13&order=3" height="180" alt="streak graph"  />
 </div>
-
 
 ## 🔗 Conect with me!
 
