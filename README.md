@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sakura.gif" width="990">
+  <img src="assets/sakura.gif" width="800">
 <br><br>
 <h1> 
   🌸Oiii, tudo bem? Me chamo Beatriz!
