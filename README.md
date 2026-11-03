@@ -53,6 +53,7 @@ I believe every line of code is an opportunity to learn something new. Currently
 </div>
 
 <!--[caso eu queira mudar cores ou outras coisas](https://profile-readme-generator.com/pt-BR) -->
+<!--[caso eu queira mudar os gifs ou outras coisas](https://giphy.com/) -->
 ## 📊 Stats and Activity
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
