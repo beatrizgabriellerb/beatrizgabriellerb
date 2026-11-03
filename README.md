@@ -28,11 +28,17 @@ I believe every line of code is an opportunity to learn something new. Currently
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img src="assets/pokemon_mew.gif"
-     height="120"
+     height="170"
      align="right"
      alt="Mew Pokémon"
      style="vertical-align: 20px;">
 </div>
+
+<br>
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph" />
+</div>
+
 
 ## 🛠️ IDE's e editors
 
@@ -48,7 +54,17 @@ I believe every line of code is an opportunity to learn something new. Currently
 </div>
 
 ## 🔗 Conect with me!
+🌷 Always open to new connections, learning opportunities, and exciting projects. Let's connect!
 
+🌷 Sempre aberta a novas conexões, oportunidades de aprendizado e projetos interessantes. Vamos nos conectar!
+Entre em contato comigo 
+
+- G-mail: b.gabriellerb@gmail.com
+- Linkedin: www.linkedin.com/in/beatriz-gabrielle-ribeiro
+- Github: https://github.com/beatrizgabriellerb
+- Instagram: https://www.instagram.com/biah_gabixz?xtok=MWNqYjFnaHVkZjEwcA%3D%3D&utm_source=qr
+
+<br>
 <div data-importer="socials" align="left">
   <a href="https://linkedin.com/in/beatriz-gabrielle-ribeiro" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
