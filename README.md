@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/sakura.gif" width="800">
+  <img src="assets/hinata.gif" width="730">
 <br><br>
 <h1> 
   🌸Oiii, tudo bem? Me chamo Beatriz!
@@ -16,12 +16,18 @@ Me chamo Beatriz Gabrielle Ribeiro, tenho 19 anos e moro em São Paulo, Brasil. 
 
 Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmente, estou desenvolvendo minha lógica de programação e explorando diferentes ferramentas e possibilidades da área. 
 
+
+
+
 #### **`✨About Me`**
 I'm Beatriz Gabrielle Ribeiro, I'm 19 years old and I live in São Paulo, Brazil. I graduated from Externato Elvira Ramos High School and I'm currently studying Information Systems at UNIP. I'm passionate about technology and just beginning my journey in this field.
 
 I believe every line of code is an opportunity to learn something new. Currently, I'm developing my programming logic skills and exploring different tools and possibilities in the field. 
 
-## 🌐 Languages
+<h2>
+  <img src="pokemon_mew.gif" width="40" align="right">
+  🌐 Languages
+</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
