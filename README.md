@@ -14,7 +14,13 @@
 ## ✨ Sobre mim
 Me chamo Beatriz Gabrielle Ribeiro, tenho 19 anos e moro em São Paulo, Brasil. Concluí o ensino médio no Externato Elvira Ramos e atualmente estou cursando Sistemas de Informação na UNIP. Sou apaixonada por tecnologia e estou dando os meus primeiros passos neste mundo. 
 
-Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmente, estou desenvolvendo minha lógica de programação e explorando diferentes ferramentas e possibilidades da área. 
+Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmente, estou desenvolvendo minha lógica de programação e explorando diferentes ferramentas e possibilidades da área.
+
+<img src="assets/naruto.gif"
+     height="180"
+     align="right"
+     alt="Naruto"
+     style="margin-left: 20px;">
 
 #### **`✨About Me`**
 I'm Beatriz Gabrielle Ribeiro, I'm 19 years old and I live in São Paulo, Brazil. I graduated from Externato Elvira Ramos High School and I'm currently studying Information Systems at UNIP. I'm passionate about technology and just beginning my journey in this field.
@@ -75,7 +81,14 @@ Entre em contato comigo
   <a href="b.gabriellerb@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+ <img src="assets/pokemon.gif"
+     height="150"
+     align="right"
+     alt="pokemon"
+      style="vertical-align: 20px; position: relative; top: -100px;">
 </div>
+
+<br>
 
 ##
 <img
