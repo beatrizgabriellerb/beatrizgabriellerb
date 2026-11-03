@@ -1,5 +1,5 @@
-<div align = "center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="990">
+<div align="center">
+  <img src="assets/sakura.gif" width="990">
 <br><br>
 <h1> 
   🌸Oiii, tudo bem? Me chamo Beatriz!
@@ -56,9 +56,7 @@ I believe every line of code is an opportunity to learn something new. Currently
   </a>
 </div>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+##
+<img
+  alt="pacman contribution graph"
+  src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
