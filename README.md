@@ -18,40 +18,28 @@ Me chamo Beatriz Gabrielle Ribeiro, tenho 19 anos e moro em São Paulo, Brasil. 
 
 Acredito que cada código é uma oportunidade de aprender coisas novas. Atualmente, estou desenvolvendo minha lógica de programação e explorando diferentes ferramentas e possibilidades da área.
 
-<img src="assets/naruto.gif"
-     height="180"
-     align="right"
-     alt="Naruto"
-     style="margin-left: 20px;">
-
 #### **`✨About Me`**
 I'm Beatriz Gabrielle Ribeiro, I'm 19 years old and I live in São Paulo, Brazil. I graduated from Externato Elvira Ramos High School and I'm currently studying Information Systems at UNIP. I'm passionate about technology and just beginning my journey in this field.
 
 I believe every line of code is an opportunity to learn something new. Currently, I'm developing my programming logic skills and exploring different tools and possibilities in the field. 
 
-## 🌐 Languages
+## 🌐 Technologies
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="assets/pokemon_mew.gif"
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="assets/computador.gif"
      height="170"
      align="right"
-     alt="Mew Pokémon"
+     alt="computador"
      style="vertical-align: 20px;">
 </div>
 
 <br>
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/beatrizgabriellerb/beatrizgabriellerb/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph" />
-</div>
-
-
-## 🛠️ IDE's e editors
-
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 <!--[caso eu queira mudar cores ou outras coisas](https://profile-readme-generator.com/pt-BR) -->
